@@ -45,7 +45,7 @@ print(mostrar())
 items = get_data()
 
 sidebar = st.sidebar
-sidebar.title("Brian Sanchez RObles)
+sidebar.title("Brian Sanchez Robles")
 sidebar.write("Matricula: S19004873")
 sidebar.write("zs19004873@estudiantes.uv.mx")
 sidebar.markdown("_")
